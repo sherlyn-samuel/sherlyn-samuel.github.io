@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me ؛༊
+Sherlyn Samuel ؛༊
 ======
 
 I am a Computer Science graduate from TamilNadu working as an independent researcher who is interested in the field of EDM (Educational Data Mining), HCI (Human Computer Interaction) with interest in Educational Game Development for children. My focus is on building gamified, inclusive learning tools that make education genuinely engaging for all children with inclusivity and consideration for their learning level and capability. 
