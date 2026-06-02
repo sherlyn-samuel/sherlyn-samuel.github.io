@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Sherlyn Samuel"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"  # example: "she/her"
+  bio              : "Bachelor's of Computer Science Graduate currently an independent researcher in the field of EDM (Educational Data Mining), HCI (Human Computer Interaction) with interest in Game Development for children."
   location         : "Tamil Nadu, India"
   employer         : "Independent Researcher"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "sherliszt" # Username
   lastfm           : # Username
   linkedin         : "sherlyn-samuel-work/"
   mastodon         : # URL
