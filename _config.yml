@@ -17,6 +17,9 @@ url                      : https://sherlyn-samuel.github.io # The base hostname 
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sherlyn-samuel/sherlyn-samuel.github.io"
+remote_theme             : "academicpages/academicpages.github.io"
+plugins:
+  - jekyll-remote-theme
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +29,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Sherlyn Samuel"
   pronouns         : "she/her"  # example: "she/her"
-  bio              : "Bachelor's of Computer Science Graduate currently an independent researcher in the field of EDM (Educational Data Mining), HCI (Human Computer Interaction) with interest in Game Development for children."
+  bio              : #
   location         : "Tamil Nadu, India"
   employer         : "Independent Researcher"
   uri              : # URL
