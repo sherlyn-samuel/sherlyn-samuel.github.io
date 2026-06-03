@@ -13,7 +13,7 @@ Education
 ======
 * B.E Computer Science and Engineering 
 
-* <b>Cumulative GPA:</b> ~7.4 / 10
+* <b>Cumulative GPA:</b> 7.4 / 10
 
 <b>Relevant Coursework:</b> Mobile Application Development, Machine Learning, Database Management Systems, Data Structures and Algorithms
 
@@ -24,12 +24,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, Dart, Java
+* Frameworks & Tools: Flutter, Flame Engine, Spring Boot, Firebase
+* AI/ML: Gemini API, basic ML pipelines
+* Design: Pixel art, Figma, Aesprite, Clip Studio Paint 
+* Other: Git, MySQL
 
 Publications
 ======
