@@ -15,7 +15,7 @@ Education
 
 * <b>Cumulative GPA:</b> 7.4 / 10
 
-<b>Relevant Coursework:</b> Mobile Application Development, Machine Learning, Database Management Systems, Data Structures and Algorithms
+* <b>Relevant Coursework:</b> Mobile Application Development, Machine Learning, Database Management Systems, Data Structures and Algorithms
 
 Work experience
 ======
@@ -24,11 +24,11 @@ Work experience
   
 Skills
 ======
-* Languages: Python, Dart, Java
-* Frameworks & Tools: Flutter, Flame Engine, Spring Boot, Firebase
-* AI/ML: Gemini API, basic ML pipelines
-* Design: Pixel art, Figma, Aesprite, Clip Studio Paint 
-* Other: Git, MySQL
+* <b>Languages:</b> Python, Dart
+* <b>Frameworks & Tools:</b> Flutter, Flame Engine, Spring Boot, Firebase
+* <b>AI/ML:</b> Gemini API, basic ML pipelines
+* <b>Design:</b> Pixel art, Figma, Aesprite, Clip Studio Paint 
+* <b>Other:</b> Git, MySQL
 
 Publications
 ======
