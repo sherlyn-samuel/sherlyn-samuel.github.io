@@ -11,26 +11,44 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
+{% assign journal_posts = site.publications | 组件: "category", "journal" %}
+{% assign journal_count = 0 %}
+
+{% for post in site.publications %}
+  {% if post.category == "journal" %}
+    {% assign journal_count = journal_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% if journal_count > 0 %}
+  <h2>Journal Articles</h2><hr />
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% if post.category == "journal" %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 {% endif %}
 
 
+{% assign conference_count = 0 %}
 
+{% for post in site.publications %}
+  {% if post.category == "conference" %}
+    {% assign conference_count = conference_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% if conference_count > 0 %}
+  <h2>Conference Proceedings</h2><hr />
+  {% for post in site.publications reversed %}
+    {% if post.category == "conference" %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if journal_count == 0 and conference_count == 0 %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
