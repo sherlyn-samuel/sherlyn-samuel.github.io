@@ -27,7 +27,7 @@ collection: portfolio
       <div class="proj-title">Menta-Ray</div>
       <div class="proj-subtitle">Gamified 2D learning platform for children</div>
     </div>
-    <span class="badge badge-gold">🏅 Best Paper &middot; ICESM-2026</span>
+    <span class="badge badge-gold">🏅 Best Paper &middot; ICESM-2026</span><br>
   </div>
   <div class="proj-tags">
     <span class="tag">Flutter / Flame</span>
