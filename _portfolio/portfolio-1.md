@@ -3,6 +3,8 @@ title: "Menta-rey"
 excerpt: "A Flutter-based gamified educational app for children featuring Mathematical Quizzing and Indian Sign Language (ISL) learning with LLM (Gemini API) integration."
 collection: portfolio
 
+--- 
+
 <style>
 .proj { border-left: 3px solid #f0c4b8; padding: 0 0 2rem 1.25rem; margin-bottom: 0.5rem; }
 .proj-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 0.3rem; }
@@ -79,3 +81,4 @@ collection: portfolio
   </div>
 </div>
 
+--- 
