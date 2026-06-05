@@ -2,8 +2,7 @@
 title: "Menta-rey"
 excerpt: "A Flutter-based gamified educational app for children featuring Mathematical Quizzing and Indian Sign Language (ISL) learning with LLM (Gemini API) integration."
 collection: portfolio
-
---- 
+---
 
 <style>
 .proj { border-left: 3px solid #f0c4b8; padding: 0 0 2rem 1.25rem; margin-bottom: 0.5rem; }
@@ -48,24 +47,18 @@ collection: portfolio
         <path d="M2 1L8 5L2 9" fill="none" stroke="#888" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
       </marker>
     </defs>
-    <!-- Flutter / Flame -->
     <rect x="10" y="30" width="138" height="50" rx="8" fill="#e1f5ee" stroke="#0f6e56" stroke-width="0.5"/>
     <text x="79" y="52" text-anchor="middle" font-size="13" font-weight="600" fill="#085041" font-family="sans-serif">Flutter / Flame</text>
     <text x="79" y="68" text-anchor="middle" font-size="11" fill="#0f6e56" font-family="sans-serif">Frontend · Game engine</text>
-    <!-- arrow -->
     <line x1="150" y1="55" x2="182" y2="55" stroke="#aaa" stroke-width="1" marker-end="url(#a1)"/>
     <text x="166" y="48" text-anchor="middle" font-size="10" fill="#999" font-family="sans-serif">REST</text>
-    <!-- Spring Boot -->
     <rect x="184" y="30" width="148" height="50" rx="8" fill="#eeedfe" stroke="#534ab7" stroke-width="0.5"/>
     <text x="258" y="52" text-anchor="middle" font-size="13" font-weight="600" fill="#3c3489" font-family="sans-serif">Spring Boot</text>
     <text x="258" y="68" text-anchor="middle" font-size="11" fill="#534ab7" font-family="sans-serif">Auth · Business logic</text>
-    <!-- arrows to right nodes -->
     <line x1="334" y1="46" x2="372" y2="30" stroke="#aaa" stroke-width="1" marker-end="url(#a1)"/>
     <line x1="334" y1="64" x2="372" y2="80" stroke="#aaa" stroke-width="1" marker-end="url(#a1)"/>
-    <!-- MySQL -->
     <rect x="374" y="10" width="118" height="38" rx="8" fill="#faeeda" stroke="#854f0b" stroke-width="0.5"/>
     <text x="433" y="33" text-anchor="middle" font-size="13" font-weight="600" fill="#633806" font-family="sans-serif">MySQL</text>
-    <!-- Gemini -->
     <rect x="374" y="62" width="118" height="38" rx="8" fill="#faece7" stroke="#993c1d" stroke-width="0.5"/>
     <text x="433" y="85" text-anchor="middle" font-size="13" font-weight="600" fill="#4a1b0c" font-family="sans-serif">Gemini API</text>
     <text x="433" y="107" text-anchor="middle" font-size="10" fill="#993c1d" font-family="sans-serif">Dynamic question gen.</text>
@@ -80,5 +73,3 @@ collection: portfolio
     <a class="proj-link" href="https://github.com/sherlyn-samuel/menta-ray" target="_blank">↗ GitHub</a>
   </div>
 </div>
-
---- 
