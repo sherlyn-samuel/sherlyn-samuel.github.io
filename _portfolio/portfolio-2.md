@@ -2,7 +2,6 @@
 title: "CLAM"
 excerpt: "CGCLMA - Competitive Gaming for Children's Learning through Mathematical Application"
 collection: portfolio
----
 
 <style>
 .proj { border-left: 3px solid #f0c4b8; padding: 0 0 2rem 1.25rem; margin-bottom: 0.5rem; }
@@ -21,6 +20,7 @@ collection: portfolio
 .proj-link  { font-size: 12px; padding: 3px 10px; border-radius: 4px; border: 1px solid #ddd; color: #555; text-decoration: none; }
 .proj-link:hover { background: #f7f7f7; text-decoration: none; }
 </style>
+
 <div class="proj-card">
   <div class="proj-header">
     <div>

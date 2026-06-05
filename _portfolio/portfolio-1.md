@@ -2,7 +2,7 @@
 title: "Menta-rey"
 excerpt: "A Flutter-based gamified educational app for children featuring Mathematical Quizzing and Indian Sign Language (ISL) learning with LLM (Gemini API) integration."
 collection: portfolio
----
+
 <style>
 .proj { border-left: 3px solid #f0c4b8; padding: 0 0 2rem 1.25rem; margin-bottom: 0.5rem; }
 .proj-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 0.3rem; }
@@ -20,11 +20,10 @@ collection: portfolio
 .proj-link  { font-size: 12px; padding: 3px 10px; border-radius: 4px; border: 1px solid #ddd; color: #555; text-decoration: none; }
 .proj-link:hover { background: #f7f7f7; text-decoration: none; }
 </style>
+
 <div class="proj-card">
   <div class="proj-header">
     <div>
-      <div class="proj-number">Project 01 &mdash; Complete</div>
-      <div class="proj-title">Menta-Ray</div>
       <div class="proj-subtitle">Gamified 2D learning platform for children</div>
     </div>
     <span class="badge badge-gold">🏅 Best Paper &middot; ICESM-2026</span><br>
